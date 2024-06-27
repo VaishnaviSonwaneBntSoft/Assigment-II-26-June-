@@ -64,14 +64,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Authors
 Vaishnavi Sonwane (@VaishnaviSonwaneBntSoft)
 
-### Explanation:
 
-- **Structure:** The README.md file is structured into sections for clarity:
-  - **Title and Introduction:** Clearly states the purpose of the application and its key features.
-  - **Prerequisites:** Lists the software required to run the application.
-  - **Setup:** Provides step-by-step instructions for cloning, building, and running the application using Maven.
-  - **Usage:** Explains how to use the API endpoint for calculations, including example usage with curl.
-  - **Logging:** Mentions logging using SLF4J with logback for monitoring and debugging.
-  - **Contributing:** Encourages contributions and provides guidance on how to contribute to the project.
-  - **License:** States the license under which the project is distributed.
-  - **Authors:** Provides attribution to the project author(s) or contributors.
