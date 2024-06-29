@@ -28,7 +28,7 @@ public class ArmstrongTask implements Runnable{
         if(sumOfDigit==number)
             result="Given Number Is ArmStrong";
         else
-             result="Given Number Is Not ArmStrong";
+            result="Given Number Is Not ArmStrong";
     }
 
     public String getResult()
